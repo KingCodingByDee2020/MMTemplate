@@ -62,6 +62,10 @@ a {
   padding: 1rem;
 }
 
+.inline-list {
+  display: inline-block;
+}
+
 .rounded {
   border-radius: 0.75rem;
 }
