@@ -83,6 +83,14 @@ figcaption {
   margin: 0 0.5rem 0.25rem 0;
 }
 
+.flex {
+  display: flex;
+}
+
+.flex--column {
+  flex-direction: column;
+}
+
 .rounded {
   border-radius: 0.75rem;
 }
